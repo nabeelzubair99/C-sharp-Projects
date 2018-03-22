@@ -1,0 +1,11 @@
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\bin\Debug\Zubair_Project2.exe.config
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.csprojResolveAssemblyReference.cache
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.frmEnterAccessID.resources
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.frmEmployeePinEntry.resources
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.frmTransactionSelect.resources
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.Properties.Resources.resources
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.csproj.GenerateResource.Cache
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\bin\Debug\Zubair_Project2.exe
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\bin\Debug\Zubair_Project2.pdb
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.exe
+C:\Users\nabeel\Documents\Spring 2018\C#\Labs\Zubair_Project2\Zubair_Project2\obj\Debug\Zubair_Project2.pdb
