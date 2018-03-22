@@ -1,0 +1,9 @@
+c:\users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\bin\Debug\Zubair_Bingo.exe.config
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\bin\Debug\Zubair_Bingo.exe
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\bin\Debug\Zubair_Bingo.pdb
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.csprojResolveAssemblyReference.cache
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.Properties.Resources.resources
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.csproj.GenerateResource.Cache
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.exe
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.pdb
+C:\Users\nabeel\documents\visual studio 2015\Projects\Zubair_Bingo\Zubair_Bingo\obj\Debug\Zubair_Bingo.frmBingo.resources
